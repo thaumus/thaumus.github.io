@@ -23,7 +23,7 @@ header, nav, main, section, aside, footer {
 }
 
 section, aside {
-    float: left;
+    float: right;
 }
 
 section {
@@ -34,5 +34,5 @@ aside {
 }
 
 footer {
-    float:right;
+    clear:both;
 }
