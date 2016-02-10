@@ -1,13 +1,38 @@
-i7 {
+#i-7 {
     font-weight:bold;
     text-decoration: underline;
 }
 
-Intel {
+#Intel {
     max-width:100%;
     background-color: blue;
-    text-decoration-color: aliceblue;
+    text-decoration-color: white;
+    border-width:200px;
     height:695px;
     height:129px;
 }
 
+body {
+    width: 75%;
+    margin: 0 auto;
+}
+
+header, nav, main, section, aside, footer {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+section, aside {
+    float: left;
+}
+
+section {
+    width: 70%
+}
+aside {
+    width: 20%;
+}
+
+footer {
+    float:right;
+}
