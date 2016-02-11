@@ -1,38 +1,27 @@
-#i-7 {
+/*
+#Intel {
     font-weight:bold;
     text-decoration: underline;
 }
 
-#Intel {
+{
     max-width:100%;
     background-color: blue;
-    text-decoration-color: white;
+    color: white;
     border-width:200px;
     height:695px;
     height:129px;
+*/
+header {
+       max-width:100%;
+    background-color: blue;
+    color: white;
+    border-width:200px;
+    font-family: sans-serif;
 }
 
-body {
-    width: 75%;
-    margin: 0 auto;
-}
+body
+    
+    
 
-header, nav, main, section, aside, footer {
-    padding: 5px;
-    margin-top: 10px;
-}
 
-section, aside {
-    float: right;
-}
-
-section {
-    width: 70%
-}
-aside {
-    width: 20%;
-}
-
-footer {
-    clear:both;
-}
