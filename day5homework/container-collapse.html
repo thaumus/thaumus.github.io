@@ -11,14 +11,14 @@
             }
             .parent-container {
                 background-color: dodgerblue;
-                float: left;
+                clear: both;
             }
             
             hr { clear: both;}
             .child-container {
                 background-color: darkgoldenrod;
-                width: 100px;
-                height: 100px;
+                width: 50px;
+                height: 50px;
                 margin: 20px;
                 
             }
@@ -45,7 +45,7 @@
         </div>
         <hr>
         <h3>Parent container with two childs floating. The parent has the clearfix class allowing to see the childs out of the normal document flow, that's why you can see the blue background</h3>
-       
+       <div class="floating"></div>
             
             <!-- Hint: Add the class that implements a way to fix container collapse -->
         <div class="parent-container">
