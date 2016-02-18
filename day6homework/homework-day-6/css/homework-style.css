@@ -1,0 +1,128 @@
+ h3 {
+  font-family: Arial;
+  margin-left: 435px; 
+     color: grey;
+     font-size: 20px;
+     font-weight: normal;
+     }
+
+.first{
+   font-family: sans-serif;
+   font-size: 12px;
+   color:lightslategray;
+   margin-left: 275px;
+    }
+
+.article-one {
+    float: left;
+}
+
+.keyboard {
+    width: 365px;
+    height: 185px;
+    margin-top: 55px;
+}
+
+.h2 {
+    font-family: Arial;
+    color: grey;
+    font-size: 15px;
+    font-weight: normal;
+   }
+
+.second {
+    font-family: sans-serif;
+    font-size: 12px;
+    color:lightslategray;
+    }
+
+.a-one {
+    text-decoration: underline;
+    color:forestgreen;
+    padding: 10px;
+    font-size: 12px;
+    margin-bottom: 25px;
+    margin-left: 289px;
+}
+
+/* END FIRST SECTION. Next section is the article that will be floated right with the three images in it */
+
+.article-two {
+float: right;
+}
+
+
+.laptop-pic {
+    width: 165px;
+    height: 85px;
+    
+}
+.A2H2 {
+    font-family: Arial;
+    color: grey;
+    font-size: 15px;
+    font-weight: normal;
+    }
+
+
+.A2P {
+    font-family: sans-serif;
+    font-size: 12px;
+    color:lightslategray;
+    }
+
+
+.desk-pic {
+     width: 165px;
+     height: 85px;
+    
+}
+
+.A22H2 {
+    font-family: Arial;
+    color: grey;
+    font-size: 15px;
+    font-weight: normal;
+    
+}
+
+.A2P2 {
+    font-family: sans-serif;
+    font-size: 12px;
+    color:lightslategray;
+    
+}
+
+.window-pic {
+     width: 165px;
+     height: 85px;
+}
+
+.A23H2 {
+    font-family: Arial;
+    color: grey;
+    font-size: 15px;
+    font-weight: normal;
+    
+}
+
+.A2P3 {
+    font-family: sans-serif;
+    font-size: 12px;
+    color:lightslategray;
+    
+}
+
+/* END 2nd SECTION. The former section is an article, floated right, containing the three images of the window, desk and laptop with the text. */
+
+
+
+
+
+
+
+
+
+
+
+
