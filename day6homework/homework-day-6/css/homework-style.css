@@ -1,7 +1,7 @@
  h3 {
   font-family: Arial;
-  margin-left: 435px; 
-     color: grey;
+  margin: auto; 
+     color: lightslategray;
      font-size: 20px;
      font-weight: normal;
      }
@@ -10,11 +10,15 @@
    font-family: sans-serif;
    font-size: 12px;
    color:lightslategray;
-   margin-left: 275px;
+   margin-left: 465px;
     }
 
 .article-one {
     float: left;
+    background-color: lightgrey;
+    margin-left: 80px;
+    margin-top: 80px;
+    
 }
 
 .keyboard {
@@ -55,13 +59,19 @@ float: right;
 .laptop-pic {
     width: 165px;
     height: 85px;
-    
+    margin-top: 60px;
 }
 .A2H2 {
     font-family: Arial;
     color: grey;
     font-size: 15px;
     font-weight: normal;
+    float: right;
+    margin-right: 125px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    border-bottom: 15px;
+    margin-top: 59px;
     }
 
 
@@ -69,6 +79,7 @@ float: right;
     font-family: sans-serif;
     font-size: 12px;
     color:lightslategray;
+    
     }
 
 
@@ -83,6 +94,12 @@ float: right;
     color: grey;
     font-size: 15px;
     font-weight: normal;
+    float: right;
+    margin-right: 125px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    border-bottom: 15px;
+    
     
 }
 
@@ -103,6 +120,11 @@ float: right;
     color: grey;
     font-size: 15px;
     font-weight: normal;
+    float: right;
+    margin-right: 125px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    border-bottom: 15px;
     
 }
 
