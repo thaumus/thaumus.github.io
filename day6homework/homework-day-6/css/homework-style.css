@@ -1,4 +1,13 @@
- h3 {
+ header {
+   background-color:aqua;  
+     margin-bottom: 2000px;
+ }
+
+
+
+
+
+h3 {
   font-family: Arial;
   margin: auto; 
      color: lightslategray;
@@ -13,7 +22,7 @@
    margin-left: 465px;
     }
 
-.article-one {
+.article-one {                           
     float: left;
     background-color: lightgrey;
     margin-left: 80px;
@@ -136,6 +145,35 @@ float: right;
 }
 
 /* END 2nd SECTION. The former section is an article, floated right, containing the three images of the window, desk and laptop with the text. */
+
+.alignment-wrapper {
+   
+}
+
+.check-one {
+    color: forestgreen;
+}
+
+.check-two {
+    color: forestgreen;
+}
+
+.check-three {
+    color: forestgreen;
+}
+
+.profession{
+  background: yellow;
+    margin-top: 150px;
+ float: clear;
+    
+}
+/*end check-mark section*/
+
+
+
+
+	
 
 
 
