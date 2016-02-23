@@ -2,6 +2,7 @@
     width: 500px;
     height: 500px;
     
+    
    
     
 }
@@ -33,9 +34,11 @@
 #land {
     background: url(../img/featured-image-5.jpg);
     background-repeat: no-repeat;
-    width: 600px;
-    padding: 50px;
-    float: left;
+    width: 700px;
+    height: 500px;
+    
+    float: right;
+    padding-bottom: 400px;
 }
 
 main {
@@ -53,13 +56,5 @@ aside {
     clear: both;
 }
 
-.care{
-    margin-left: 25px;
-    margin-top: 50px;
-    padding-top: 20px;
-    width: 500px;
-    height: 500px;
+
     
-    
-    
-}
