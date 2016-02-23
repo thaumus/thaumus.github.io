@@ -1,6 +1,32 @@
-main {
+.main {
    background: url(../img/featured-image-4.jpg);
     background-repeat: no-repeat;
+    padding: 20px;
+    border: 200px;
+    width: 890px;
+    height: 349px;
+    background-size: auto;
+    
+    
+    
+}
+
+.and-more {
+    color: white;
+    font-family: arial;
+    
+}
+
+.craft {
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+.services {
+    color: white;
+    
+    
 }
     
     
