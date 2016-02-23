@@ -1,0 +1,46 @@
+.small-box {
+    width: 300px;
+    padding: 40px;
+}
+
+.small-box h2 {
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+.small-box p {
+    color: green;
+}
+
+#grow {
+    background: url(../img/featured-image-3.jpg);
+    background-repeat: no-repeat;
+}
+
+#plant {
+    background: url(../img/featured-image-4.jpg);
+    background-repeat: no-repeat;
+}
+
+#land {
+    background: url(../img/featured-image-5.jpg);
+    background-repeat: no-repeat;
+    width: 600px;
+    padding: 50px;
+    float: left;
+}
+
+main {
+    background-color: aqua;
+    width: 1250px;
+}
+
+aside {
+    float: left;
+}
+
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
