@@ -1,0 +1,48 @@
+.header {
+background-color: aqua;
+    height: 200px;
+    color: darkgray;
+    
+    
+}
+
+.first{
+    
+font-family: sans-serif;
+    color: lightgrey;
+    text-align: center;
+}
+
+.master{
+   float: left; 
+   outline: dotted 5px black;
+    width:50%;
+    
+}
+
+.a-one{
+    margin-left: 520px;
+    text-decoration: underline;
+    color: darkseagreen;
+}
+
+.laptop-pic {
+    width:165px;
+    height: 85px;
+    
+}
+
+.h2 {
+  font:arial;
+    color: gray;
+    
+}
+
+.second {
+    color: grey;
+    font-size: 14px;
+    
+    
+}
+
+

@@ -1,7 +1,19 @@
- header {
-   background-color:aqua;  
-     margin-bottom: 2000px;
+ * {
+     
+     
  }
+
+
+header {
+   background-color:aqua;  
+     padding-bottom: 200px;
+     
+ }
+
+.master {
+   width: 40%; 
+    float: left;
+}
 
 
 
@@ -23,10 +35,23 @@ h3 {
     }
 
 .article-one {                           
-    float: left;
+  
     background-color: lightgrey;
-    margin-left: 80px;
-    margin-top: 80px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 40%;
+    float: left;
+
+    
+}
+
+.clearfix:after {
+         clear: both;     
+        content: ".";     
+    display: block;     
+    height: 0;     
+    line-height: 0;     
+    visibility: hidden; 
     
 }
 
@@ -60,8 +85,9 @@ h3 {
 
 /* END FIRST SECTION. Next section is the article that will be floated right with the three images in it */
 
+
 .article-two {
-float: right;
+clear: right;
 }
 
 
@@ -69,13 +95,23 @@ float: right;
     width: 165px;
     height: 85px;
     margin-top: 60px;
+    float: left;
 }
+
+
+.TEXT {
+    float: left;
+    
+    
+    
+}
+
+
 .A2H2 {
     font-family: Arial;
     color: grey;
     font-size: 15px;
     font-weight: normal;
-    float: right;
     margin-right: 125px;
     margin-bottom: 5px;
     padding-bottom: 15px;
@@ -95,6 +131,7 @@ float: right;
 .desk-pic {
      width: 165px;
      height: 85px;
+    float: left;
     
 }
 
@@ -164,8 +201,8 @@ float: right;
 
 .profession{
   background: yellow;
-    margin-top: 150px;
- float: clear;
+  margin-top: 50px;
+ 
     
 }
 /*end check-mark section*/
