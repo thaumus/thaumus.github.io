@@ -1,6 +1,9 @@
 .small-box {
-    width: 300px;
-    padding: 40px;
+    width: 500px;
+    height: 500px;
+    
+   
+    
 }
 
 .small-box h2 {
@@ -15,6 +18,11 @@
 #grow {
     background: url(../img/featured-image-3.jpg);
     background-repeat: no-repeat;
+ 
+    
+}
+
+    
 }
 
 #plant {
@@ -43,4 +51,15 @@ aside {
     content: '';
     display: block;
     clear: both;
+}
+
+.care{
+    margin-left: 25px;
+    margin-top: 50px;
+    padding-top: 20px;
+    width: 500px;
+    height: 500px;
+    
+    
+    
 }
