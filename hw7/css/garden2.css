@@ -10,38 +10,26 @@
     padding-top: 100px;
     padding-bottom: 100px;
     padding-right: 100px;
-    
 }
 
 .and-more {
     color: white;
     font-family: arial;
-    position: absolute;
     text-transform: uppercase;
-    font-size: 25px;
-    width: 100px;
-    height: 50px;
-    top: 50%;
-    left: 50%;
-    direction: ltr;
-    padding-bottom: 100px;
+    font-size: 15px;
+    padding-bottom: 200px;
+    padding-top: 300px;
+    text-align: center;
 }
 
 .craft {
     color: white;
     text-transform: uppercase;
-    position: absolute;
-    width: 100px;
-    height: 50px;
-    top: 50%;
-    left: 50%;
+    text-align: center;
+    border-bottom: 250px;
 }
 
 .services {
     color: white;
-    position: absolute;
-    width: 100px;
-    height: 50px;
-    top: 50%;
-    left: 50%;
+    text-align: center;
 }
