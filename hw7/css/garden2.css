@@ -1,11 +1,14 @@
-.main {
+.main-box {
    background: url(../img/featured-image-4.jpg);
-    background-repeat: no-repeat;
-    padding: 20px;
-    border: 200px;
-    width: 890px;
-    height: 349px;
-    background-size: auto;
+background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    width: 1280px;
+    height: 1024px;
+    background-color: aqua;
+    
+   
+   
     
     
     
@@ -14,12 +17,26 @@
 .and-more {
     color: white;
     font-family: arial;
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 25px;
+    width: 100px;
+    height: 50px;
+    top: 50%;
+    left: 50%;
+    direction: ltr;
+    
     
 }
 
 .craft {
     color: white;
     text-transform: uppercase;
+    position: absolute;
+     width: 100px;
+    height: 50px;
+    top: 50%;
+    left: 50%;
     
 }
 
