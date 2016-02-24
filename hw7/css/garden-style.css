@@ -19,10 +19,13 @@
 .small-box p {
     color: lawngreen;
     font-family: sans-serif;
+    font-size: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
 }
 
-/* END FIRST SMALL BOX. (TOP LEFT BOX)*/
 
+/* END FIRST SMALL BOX. (TOP LEFT BOX)*/
 
 #plant {
     background: url(../img/featured-image-4.jpg);
@@ -35,25 +38,27 @@
     color: #FFF;
     text-transform: uppercase;
     font-family: sans-serif;
-    }
+    text-align: center;
+}
 
 .small-box-2 p {
     color: lawngreen;
     font-family: sans-serif;
+    text-align: center;
 }
 
-/* END 2ND SMALL BOX. (BOX BENEATH TOP LEFT BOX). */
 
+/* END 2ND SMALL BOX. (BOX BENEATH TOP LEFT BOX). */
 
 #land {
     background: url(../img/featured-image-5.jpg);
     background-repeat: no-repeat;
     width: 700px;
-    height: 500px;
-    margin-top: 20px;
+    height: 505px;
+    margin-top: 25px;
     float: left;
     padding-bottom: 400px;
-    margin-left: 2px;
+    margin-left: 20px;
     padding left: 2px;
     margin-right: 160px;
 }
@@ -62,20 +67,20 @@
     color: #FFF;
     text-transform: uppercase;
     font-family: sans-serif;
-    
+    text-align: center;
 }
 
 .big-box h3 {
     color: lawngreen;
     font-family: sans-serif;
     font-size: 15px;
-    
+    text-align: center;
 }
 
 .big-box p {
     color: white;
     font-size: 14px;
-    
+    text-align: center;
 }
 
 .a {
@@ -83,17 +88,25 @@
     color: white;
     text-decoration: none;
     border: solid 10px;
-    
+    border-color: grey;
+    background-color: grey;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.b {
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    border: solid 2px;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding: 7px 7px 7px 7px;
 }
 
 
-    
-    
 }
-
-
 main {
-    
     width: 1250px;
 }
 aside {
