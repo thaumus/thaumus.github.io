@@ -4,10 +4,8 @@
     clear: both;
 }
 
-
 #grow {
     background: url(../img/featured-image-3.jpg);
-    
     width: 370px;
     height: 260px;
 }
@@ -20,19 +18,33 @@
 
 .small-box p {
     color: lawngreen;
+    font-family: sans-serif;
 }
 
+/* END FIRST SMALL BOX. (TOP LEFT BOX)*/
 
 
-
-}
 #plant {
     background: url(../img/featured-image-4.jpg);
     background-repeat: no-repeat;
-    width: 300px;
-    height: 300px;
-    
+    width: 370px;
+    height: 260px;
 }
+
+.small-box-2 h2 {
+    color: #FFF;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    }
+
+.small-box-2 p {
+    color: lawngreen;
+    font-family: sans-serif;
+}
+
+/* END 2ND SMALL BOX. (BOX BENEATH TOP LEFT BOX). */
+
+
 #land {
     background: url(../img/featured-image-5.jpg);
     background-repeat: no-repeat;
@@ -45,8 +57,29 @@
     padding left: 2px;
     margin-right: 160px;
 }
+
+.big-box h1 {
+    color: #FFF;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    
+}
+
+.big-box h3 {
+    color: lawngreen;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+
+
+    
+    
+}
+
+
 main {
-    background-color: aqua;
+    
     width: 1250px;
 }
 aside {
