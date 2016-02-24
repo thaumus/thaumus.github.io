@@ -14,14 +14,17 @@
     color: #FFF;
     text-transform: uppercase;
     font-family: sans-serif;
+    padding: 50px;
+    padding-bottom: 15px;
 }
 
 .small-box p {
     color: lawngreen;
     font-family: sans-serif;
-    font-size: 10px;
-    padding-top: 10px;
+    font-size: 20px;
+    padding-top: 5px;
     margin-top: 10px;
+    padding-left: 50px;
 }
 
 
@@ -38,13 +41,17 @@
     color: #FFF;
     text-transform: uppercase;
     font-family: sans-serif;
-    text-align: center;
+    padding: 50px;
+    padding-bottom: 15px;
 }
 
 .small-box-2 p {
     color: lawngreen;
     font-family: sans-serif;
-    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-top: 10px;
+    padding-left: 50px;
 }
 
 
