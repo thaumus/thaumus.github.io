@@ -21,7 +21,7 @@
 .small-box p {
     color: lawngreen;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 5px;
     margin-top: 10px;
     padding-left: 50px;
@@ -48,7 +48,7 @@
 .small-box-2 p {
     color: lawngreen;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 5px;
     margin-top: 10px;
     padding-left: 50px;
@@ -74,20 +74,21 @@
     color: #FFF;
     text-transform: uppercase;
     font-family: sans-serif;
-    text-align: center;
+    margin-left: 25px;
+   
 }
 
 .big-box h3 {
     color: lawngreen;
     font-family: sans-serif;
     font-size: 15px;
-    text-align: center;
+    margin-left: 25px;
 }
 
 .big-box p {
     color: white;
     font-size: 14px;
-    text-align: center;
+    margin-left: 25px;
 }
 
 .a {
@@ -118,4 +119,17 @@ main {
 }
 aside {
     float: left;
+}
+
+.anchor {
+   padding-top: 20px; 
+    margin-left: 25px;
+    
+    
+}
+
+.text-big {
+    padding-top: 250px; 
+    margin-right: 250px;
+    
 }
