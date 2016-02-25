@@ -1,3 +1,7 @@
+main {
+    background-color: black;
+}
+
 header {
     height: 20px;
     padding-bottom: 15px;
@@ -32,7 +36,6 @@ header {
     height: 1600px;
     width: 1600px;
     margin-bottom: 10px;
-  
 }
 
 .uva-h1 {
@@ -55,23 +58,27 @@ header {
     margin-top: 5px;
 }
 
-#left-box h3{
+#left-box h3 {
     color: grey;
     font-size: 10px;
-    
+    text-align: center;
+    margin-top: 300px;
 }
 
 #left-box h4 {
-  color: black;
+    color: black;
     font-size: 15px;
-    
+    margin-left: 100px;
+    font-size: 15px;
 }
 
 #left-box p {
     font-size: 10px;
     color: grey;
-    
+    text-align: center;
+    margin-left: 45px;
 }
+
 #left-box {
     width: 578px;
     height: 866px;
@@ -84,5 +91,13 @@ header {
     background-image: url(../img/wine16.jpg);
     float: right;
 }
+
+
+.sixty {
+    background-image: url(../img/wine13.jpg);
+    height: 288px;
+    width: 1200px;
+    background-repeat: no-repeat;
     
 }
+    
