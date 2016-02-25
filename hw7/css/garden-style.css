@@ -1,3 +1,20 @@
+.H {
+    font-size: 12px;
+    color: black;
+    text-decoration: underline;
+    
+}
+
+.S {
+    font-size: 12px;
+    color: black;
+    text-decoration: underline;
+    
+    
+}
+
+
+
 .clear-fix:after {
     content: '';
     display: block;
