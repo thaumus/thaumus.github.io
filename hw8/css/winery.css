@@ -31,6 +31,7 @@ header {
     color: black;
     height: 1600px;
     width: 1600px;
+  
 }
 
 .uva-h1 {
@@ -51,4 +52,35 @@ header {
     color: white;
     text-align: center;
     margin-top: 5px;
+}
+
+#left-box h3{
+    color: grey;
+    font-size: 10px;
+    
+}
+
+#left-box h4 {
+  color: black;
+    font-size: 15px;
+    
+}
+
+#left-box p {
+    font-size: 10px;
+    color: grey;
+    
+}
+#left-box {
+    width: 578px;
+    height: 866px;
+    float: left;
+}
+
+.man {
+    width: 578px;
+    height: 866px;
+    background-image: url(../img/wine16.jpg);
+    float: right;
+    margin-top: 20px;
 }
