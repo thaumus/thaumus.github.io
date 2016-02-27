@@ -120,14 +120,12 @@ header {
     background-repeat: no-repeat;
     height: 10px;
     float: left;
-    
 }
 
 .shiraz h1 {
     font-size: 15px;
     font-style: italic;
     font-family: cursive;
-    
 }
 
 .shiraz a {
@@ -136,3 +134,20 @@ header {
     border-style: solid green;
 }
 
+#wine-bottles {
+    background-image: url(../img/wine6.jpg);
+    background-repeat: no-repeat;
+    height: 10px;
+    float: right;
+}
+
+#wine-bottles h1 {
+    font-size: 15px;
+    font-style: italic;
+    font-family: cursive;
+}
+
+#wine-bottles p {
+    font-size: 10px;
+    color: black;
+}
