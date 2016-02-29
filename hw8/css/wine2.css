@@ -1,0 +1,184 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 98%;
+    margin: auto;
+}
+
+nav {
+    padding: 2% 1%;
+    width: 98%;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: sans-serif;
+    float: left;
+}
+
+h2 {
+    line-height: 320px;
+    font-size: 3em;
+    font-weight: lighter;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+
+main p {
+    color: white;
+}
+
+nav ul {
+    float: right;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    color: #2f2f2f;
+    text-decoration: none;
+    margin-left: 5px;
+    font-size: .75em;
+    /*
+    transition: all 0.2s ease;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+*/
+}
+
+main {
+    /*
+    -webkit-clip-path: circle(50% at 50% 50%);
+    clip-path: circle(50% at 50% 50%);
+*/
+    height: 500px;
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/wine-bg.jpg);
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.two-boxes {
+    /*    -webkit-transition: all 1s ease-in-out;*/
+    /*    -moz-transition: all 1s ease-in-out;*/
+    /*    -o-transition: all 1s ease-in-out;*/
+    /*    transition: all 1s ease-in-out;*/
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+#est {
+    padding-top:80px;
+    font-size:.9em;
+}
+
+h3 {
+    line-height:20px;
+    margin: 20px;
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+p:nth-child(3) {
+    font-size: .8em;
+}
+
+img {
+    height: 100%;
+}
+
+#one {
+    height: 400px;
+    width: 58%;
+    float: left;
+    text-align: center;
+    padding: 0% 1%;
+    /*    vertical-align: center;*/
+}
+
+#one p {
+    margin-top: 30px;
+    font-size: .9em;
+}
+
+#two {
+    width: 40%;
+    height: 400px;
+    float: right;
+    /*    margin: 0 auto;*/
+    text-align: center;
+}
+
+section {
+    clear: both;
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/wine13.jpg);
+    background-size: cover;
+    height: 350px;
+    text-align: center;
+    color: white;
+}
+
+.wineDiv {
+    width: 100%;
+    height: 400px;
+}
+
+.wines {
+    height: 300px;
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.wines a {
+    font-size: .8em;
+    text-decoration: none;
+    color: #2f2f2f;
+    background-color: rgb(145, 160, 93);
+    padding: 3px;
+}
+
+section h4 {
+    font-size: 2em;
+    font-style: italic;
+    padding: 80px 20px 40px 20px;
+    font-weight: lighter;
+    /*    margin:50px;*/
+}
+
+section p {
+    padding: 20px;
+}
+
+.wineDiv a {
+    color: white;
+    padding: 6px;
+}
+
+.wineDiv p {
+    margin-bottom: 5px;
+}
+
+.wineDiv {
+    padding-bottom: 10px;
+}
+
+h5 {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.clearfix:after {
+    content: " ";
+    display: none;
+    clear: both;
+/*    height: 0;*/
+/*    line-height: 0;*/
+/*    visibility: hidden;*/
+}
