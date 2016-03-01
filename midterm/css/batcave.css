@@ -2,7 +2,6 @@
     content: '';
     display: block;
     clear: both;
-    
 }
 
 .container {
@@ -34,5 +33,21 @@
 #hero-splash {
     height: 500px;
     background-color: red;
-    
+}
+
+#hero-splash h1 {
+    font-size: 75px;
+    margin-left: 10px;
+    color: white;
+}
+
+#hero-splash p {
+    text-align: center;
+    color: white;
+}
+
+#hero-splash {
+    background-image: url(../img/batman-the-animated-series.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
