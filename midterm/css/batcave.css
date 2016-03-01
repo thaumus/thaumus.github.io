@@ -234,3 +234,24 @@
 
 /*Begin Social Media Section*/
 
+#foot {
+    background-image: url(../img/batman-v-superman-plot.jpg);
+    height: 300px;
+    background-size: cover;
+    border: solid 2px yellow;
+}
+
+#foot h1 {
+    font-family: monospace;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#foot a {
+    font-family: sans-serif;
+    color: white;
+    border: solid 3px white;
+    text-align: center;
+}
+    
