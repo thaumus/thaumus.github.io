@@ -64,9 +64,13 @@
 
 /* End Splash Section CSS*/
 
+
+/* BEGIN Bio Section*/
+
 #bio {
     width: 100%;
     background-color: black;
+    border: solid 1px yellow;
 }
 
 .bio-pic {
@@ -104,9 +108,13 @@
 
 /*END Bio Section*/
 
+
+/*BEGIN Shop Section*/
+
 #shop {
     height: 300px;
     background: black;
+    border: solid 1px yellow;
 }
 
 .games h4 {
@@ -183,3 +191,46 @@
 
 
 /*END Shop Section*/
+
+
+/*BEGIN DC ONLINE Section*/
+
+#dc-online {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    border: solid 2px yellow;
+}
+
+.dc-splash {
+    float: left;
+    margin-left: 80px;
+    padding-top: 100px;
+}
+
+.joker-splash {
+    float: left;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+.dc-splash p {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    font-size: 15px;
+}
+
+.joker-splash p {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    font-size: 15px;
+}
+
+
+/*END DC-ONLINE Section*/
+
+
+/*Begin Social Media Section*/
+
