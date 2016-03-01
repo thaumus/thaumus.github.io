@@ -62,3 +62,21 @@
     margin-left: 485px;
 }
 
+#bio {
+    width: 100%;
+    
+    background-color: red;
+    
+}
+
+.bio-pic {
+    float: left;
+    
+}
+
+.bio-text {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: black;
+    float: right;
+}
