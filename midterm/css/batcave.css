@@ -44,10 +44,21 @@
 #hero-splash p {
     text-align: center;
     color: white;
+    font-style: italic;
+    text-transform: uppercase;
 }
 
 #hero-splash {
     background-image: url(../img/batman-the-animated-series.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
 }
+
+#hero-splash a {
+    font-size: 12px;
+    border: solid 3px white;
+    color: white;
+    margin-left: 485px;
+}
+
