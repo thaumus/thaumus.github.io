@@ -32,7 +32,7 @@
 
 #hero-splash {
     height: 500px;
-    background-color: red;
+   
 }
 
 #hero-splash h1 {
@@ -65,7 +65,6 @@
 #bio {
     width: 100%;
     background-color: black;
-    
 }
 
 .bio-pic {
@@ -89,7 +88,6 @@
     text-align: center;
     color: yellow;
     margin-right: 100px;
-    
 }
 
 .bio-text p {
@@ -99,5 +97,4 @@
     text-align: center;
     color: yellow;
     margin-right: 50px;
-    
 }
