@@ -252,6 +252,10 @@
     font-family: sans-serif;
     color: white;
     border: solid 3px white;
-    text-align: center;
 }
-    
+
+.social-links {
+    margin-left: 400px;
+}
+
+/*END Social Media Section*/
