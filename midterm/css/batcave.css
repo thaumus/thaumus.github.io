@@ -32,7 +32,6 @@
 
 #hero-splash {
     height: 500px;
-   
 }
 
 #hero-splash h1 {
@@ -61,6 +60,9 @@
     color: white;
     margin-left: 485px;
 }
+
+
+/* End Splash Section CSS*/
 
 #bio {
     width: 100%;
@@ -98,3 +100,86 @@
     color: yellow;
     margin-right: 50px;
 }
+
+
+/*END Bio Section*/
+
+#shop {
+    height: 300px;
+    background: black;
+}
+
+.games h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: monospace;
+    padding-left: 30px;
+    color: white;
+}
+
+.comics h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: monospace;
+    padding-left: 30px;
+    color: white;
+}
+
+.comics p {
+    padding-left: 15px;
+    color: white;
+}
+
+.movies h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: monospace;
+    padding-left: 30px;
+    color: white;
+}
+
+.movies p {
+    padding-left: 15px;
+    color: white;
+}
+
+.apparel h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: monospace;
+    padding-left: 20px;
+    color: white;
+}
+
+.apparel p {
+    margin-right: 25px;
+    color: white;
+}
+
+.games {
+    width: 20%;
+    float: left;
+    padding-left: 50px;
+    color: white;
+}
+
+.comics {
+    width: 20%;
+    float: left;
+    margin-left: 50px;
+}
+
+.movies {
+    width: 20%;
+    float: left;
+    margin-left: 50px;
+}
+
+.apparel {
+    width: 20%;
+    float: left;
+    margin-left: 50px;
+}
+
+
+/*END Shop Section*/
