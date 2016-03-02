@@ -37,14 +37,20 @@ header {
     width: 100%;
 }
 
+.uva-text {
+    align-content: center;
+    margin-bottom: 300px;
+}
+
 .uva-h1 {
     text-align: center;
     padding-top: 300px;
     color: white;
+    font-size: 40px;
 }
 
 .uva h2 {
-    font-size: 15px;
+    font-size: 16px;
     color: white;
     padding-top: 200px;
     text-align: center;
@@ -55,6 +61,8 @@ header {
     color: white;
     text-align: center;
     margin-top: 5px;
+    font-style: italic;
+    font-size: 18px;
 }
 
 
@@ -75,7 +83,6 @@ header {
 .man {
     width: 30%;
     padding-right: 100px;
-    
 }
 
 .left-box h3 {
@@ -126,11 +133,10 @@ header {
     background-image: url(../img/wine13.jpg);
     height: 500px;
     background-repeat: no-repeat;
-    
 }
 
 #sixty-five h2 {
-   text-align: center;
+    text-align: center;
     font-family: 'roboto slab';
     color: white;
     padding-top: 300px;
@@ -151,105 +157,77 @@ header {
 
 /*BEGIN 3 BOTTLES Section*/
 
+#three-wines {
+    text-align: center;
+}
 
+#three-wines h1 {
+    font-family: cursive;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#three-wines p {
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+#three-wines a {
+    font-family: monospace;
+    font-size: 12px;
+    color: white;
+    border: solid 5px green;
+    background: green;
+}
 
 .shiraz {
     height: 400px;
-    border: solid 2px red;
     width: 33%;
     float: left;
 }
 
-.shiraz img{
+.shiraz img {
     height: 320px;
-    
+    margin-left: 3px;
+    0
 }
 
 .clear-fix:after {
     content: '';
     display: none;
-    clear: both;*/
+    clear: both;
+    */
 }
 
 .char {
     height: 400px;
-    border: solid 2px red;
     width: 33%;
     float: left;
-    }
+}
 
 .char img {
-   height: 320px;
+    height: 320px;
 }
 
 .merlot {
     height: 400px;
-    border: solid 2px red;
+    /*border: solid 2px red;*/
     width: 33%;
     float: left;
-    }
+}
 
 .merlot img {
     height: 320px;
 }
 
-/*#three-wines {
-    height: 320px;
-    background: red;
+height: 320px;
+border: solid 2px white;
+width: 33%;
+float: right;
+margin-top: auto;
+
 }
-
-#three-wines h1 {
-    font-size: 15px;
-    font-style: italic;
-    font-family: cursive;
-    text-align: center;
-    margin-right: 40px;
-}
-
-#wine-bottles p {
-    font-size: 12px;
-    font-style: italic;
-    font-family: cursive;
-    text-align: center;
-}
-
-.shiraz {
-    height: 420px;
-    border: solid 2px white;
-    width: 33%;
-    float: left;
-    margin-right: 400px;
-    margin-top: auto;
-}
-
-.shiraz img {
-    margin-left: 145px;
-} 
-
-.shiraz a {
-    margin-left: 160px;
-    border: solid 1px black;
-    
-}
-
-.char {
-    height: 320px;
-    border: solid 2px white;
-    width: 33%;
-    float: right;
-    margin-top: auto;
-    
-}
-
 .char img {
     height: 252px;
     width: 100px;
-     
-     
-    
 }
-    
-*/
-
-
-
