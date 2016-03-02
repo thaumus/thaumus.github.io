@@ -151,13 +151,49 @@ header {
 
 /*BEGIN 3 BOTTLES Section*/
 
-/*.clear-fix:after {
+
+
+.shiraz {
+    height: 400px;
+    border: solid 2px red;
+    width: 33%;
+    float: left;
+}
+
+.shiraz img{
+    height: 320px;
+    
+}
+
+.clear-fix:after {
     content: '';
     display: none;
     clear: both;*/
 }
 
-#three-wines {
+.char {
+    height: 400px;
+    border: solid 2px red;
+    width: 33%;
+    float: left;
+    }
+
+.char img {
+   height: 320px;
+}
+
+.merlot {
+    height: 400px;
+    border: solid 2px red;
+    width: 33%;
+    float: left;
+    }
+
+.merlot img {
+    height: 320px;
+}
+
+/*#three-wines {
     height: 320px;
     background: red;
 }
@@ -178,7 +214,7 @@ header {
 }
 
 .shiraz {
-    height: 320px;
+    height: 420px;
     border: solid 2px white;
     width: 33%;
     float: left;
@@ -196,14 +232,24 @@ header {
     
 }
 
-.chardonnay {
-    height: 50%;
+.char {
+    height: 320px;
     border: solid 2px white;
     width: 33%;
+    float: right;
+    margin-top: auto;
+    
+}
+
+.char img {
+    height: 252px;
+    width: 100px;
+     
+     
     
 }
     
-
+*/
 
 
 
