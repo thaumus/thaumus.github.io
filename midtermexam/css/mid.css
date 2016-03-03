@@ -63,3 +63,22 @@
     background-size: contain;
     float: left;
 }
+
+
+/*.flag {
+    height: 400px;
+    width: 33%;
+    float: left;
+    }
+
+.bike {
+    height: 400px;
+    width: 33%;
+    float: left;
+    }
+
+.mountain {
+    height: 400px;
+    width: 33%;
+    float: left;
+    }       -----I would rather have created simple DIVS in the html with an IMG inside, and simply set the H&W in CSS for the 3 images, but I tried it as a background, and it essentially works. If I had a few more minutes I would redo it that way to get it perfect.*/
