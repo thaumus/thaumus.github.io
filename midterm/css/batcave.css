@@ -153,12 +153,12 @@
     font-size: 15px;
     text-transform: uppercase;
     font-family: monospace;
-    padding-left: 30px;
+    padding-left: 45px;
     color: white;
 }
 
 .movies p {
-    padding-left: 15px;
+    padding-left: 30px;
     color: white;
 }
 
@@ -166,13 +166,15 @@
     font-size: 15px;
     text-transform: uppercase;
     font-family: monospace;
-    padding-left: 20px;
+    text-align: center;
     color: white;
+    margin-right: 20px;
 }
 
 .apparel p {
-    margin-right: 25px;
+    text-align: center;
     color: white;
+    margin-right: 20px;
 }
 
 .games {
@@ -198,6 +200,12 @@
     width: 20%;
     float: left;
     margin-left: 50px;
+    /*border: solid 2px white;*/
+    text-align: center;
+}
+.apparel img {
+    text-align: center;
+    padding-right: 25px;
 }
 
 
@@ -266,7 +274,7 @@
 }
 
 .social-links {
-    margin-left: 400px;
+    margin-left: 472px;
 }
 
 
