@@ -14,8 +14,16 @@
     text-transform: uppercase;
     color: black;
     font-family: monospace;
-    /*float: left; */
+    float: left; 
+    border: solid 2px white;
 }
+
+.h-two {
+    border: solid 2px red;
+    text-align: center;
+}
+
+
 
 .container a {
     text-decoration: none;
@@ -23,11 +31,14 @@
     color: black;
     /*float: right;*/
     margin-left: 10px;
+    border: solid 2px red;
 }
 
 .container nav {
     float: right;
     margin-top: 20px;
+   
+   
 }
 
 #hero-splash {
@@ -45,18 +56,19 @@
     /*margin-left: 210px;
     margin-top: 200px;*/
     /*border: solid 2px white;*/
-    text-align: center;
+    align-content: center;
     padding-bottom: 1px;
 }
 
 #hero-splash img {
     text-align: center;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     margin-top: 45px;
     margin-right: 10px;
-    margin-left: 10px;
+    margin-left: 165px;
     padding-right: 2px;
+    
 }
 
 #hero-splash p {
@@ -67,6 +79,7 @@
     /*border: solid 2px white;*/
     text-align: center;
     padding-top: 2px;
+    border: solid 2px blue;
 }
 
 #hero-splash a {

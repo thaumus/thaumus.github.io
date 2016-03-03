@@ -1,5 +1,5 @@
 .nav {
-    height: 100px;
+    height: 50px;
     width: 100%;
     background: black;
 }
@@ -8,13 +8,15 @@
     font-size: 20px;
     color: white;
     text-align: center;
-    font-family: monospace;
-    padding-top: 50px;
+    font-family: serif;
+    text-decoration: none;
+    padding-bottom: 5px;
+    padding-top: 14px;
 }
 
 #pizza {
     width: 100%;
-    height: 200px;
+    height: 250px;
     background-image: url(../img/pizza.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,50 +37,36 @@
     text-align: center;
     font-family: sans-serif;
     font-size: 12px;
+    justify-content: center;
 }
 
 .flag {
-    width: 33%;
-    height: 200px;
-    background-image: url(../img/flag.png);
-    background-repeat: no-repeat;
-    background-size: contain;
     float: left;
+    margin-left: 250px;
+    margin-bottom: 200px;
+}
+
+.flag img {
+    width: 200px;
+    height: 200px;
 }
 
 .bike {
-    width: 33%;
-    height: 200px;
-    background-image: url(../img/scooter.png);
-    background-repeat: no-repeat;
-    background-size: contain;
+    margin-left: 150px;
     float: left;
 }
 
-.mountain {
-    width: 33%;
+.bike img {
+    width: 200px;
     height: 200px;
-    background-image: url(../img/mountains.png);
-    background-repeat: no-repeat;
-    background-size: contain;
+}
+
+.mountain {
+    margin-left: 150px;
     float: left;
 }
 
-
-/*.flag {
-    height: 400px;
-    width: 33%;
-    float: left;
-    }
-
-.bike {
-    height: 400px;
-    width: 33%;
-    float: left;
-    }
-
-.mountain {
-    height: 400px;
-    width: 33%;
-    float: left;
-    }       -----I would rather have created simple DIVS in the html with an IMG inside, and simply set the H&W in CSS for the 3 images, but I tried it as a background, and it essentially works. If I had a few more minutes I would redo it that way to get it perfect.*/
+.mountain img {
+    width: 200px;
+    height: 200px;
+}
