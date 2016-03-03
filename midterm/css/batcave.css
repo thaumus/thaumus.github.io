@@ -35,16 +35,19 @@
 }
 
 #hero-splash h1 {
-    font-size: 75px;
-    margin-left: 10px;
+    font-size: 55px;
     color: white;
+    border: solid 2px white;
+    margin-left: 210px;
+    margin-top: 200px;
 }
 
 #hero-splash p {
-    text-align: center;
     color: white;
     font-style: italic;
     text-transform: uppercase;
+    font-size: 10px;
+    border: solid 2px white;
 }
 
 #hero-splash {
@@ -58,7 +61,11 @@
     font-size: 12px;
     border: solid 3px white;
     color: white;
-    margin-left: 485px;
+    border: solid 2px white;
+}
+
+.hero {
+    align-content: center;
 }
 
 
@@ -84,16 +91,20 @@
     font-family: sans-serif;
     font-size: 12px;
     color: yellow;
-    float: right;
+    float: left;
+    margin-left: 175px;
+    /*border: solid 5px white;*/
+    width: 400px;
+    margin-top: 50px;
 }
 
 .bio-text h4 {
     font-family: monospace;
     text-transform: uppercase;
-    font-size: 29px;
+    font-size: 25px;
     text-align: center;
     color: yellow;
-    margin-right: 100px;
+    
 }
 
 .bio-text p {
@@ -102,7 +113,7 @@
     font-size: 19px;
     text-align: center;
     color: yellow;
-    margin-right: 50px;
+    
 }
 
 
@@ -204,14 +215,14 @@
 
 .dc-splash {
     float: left;
-    margin-left: 80px;
+    margin-left: 120px;
     padding-top: 100px;
 }
 
 .joker-splash {
     float: left;
     padding-top: 100px;
-    padding-left: 40px;
+    padding-left: 80px;
 }
 
 .dc-splash p {
@@ -257,5 +268,6 @@
 .social-links {
     margin-left: 400px;
 }
+
 
 /*END Social Media Section*/
