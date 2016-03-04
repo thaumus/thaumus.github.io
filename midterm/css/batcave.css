@@ -14,16 +14,8 @@
     text-transform: uppercase;
     color: black;
     font-family: monospace;
-    float: left; 
-    border: solid 2px white;
+    float: left;
 }
-
-.h-two {
-    border: solid 2px red;
-    text-align: center;
-}
-
-
 
 .container a {
     text-decoration: none;
@@ -31,18 +23,15 @@
     color: black;
     /*float: right;*/
     margin-left: 10px;
-    border: solid 2px red;
 }
 
 .container nav {
     float: right;
     margin-top: 20px;
-   
-   
 }
 
 #hero-splash {
-    margin: 0 auto;
+    /*margin: 0 auto;*/
     background-image: url(../img/batman-the-animated-series.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,42 +40,48 @@
 }
 
 #hero-splash h1 {
-    font-size: 55px;
+    font-size: 45px;
     color: white;
     /*margin-left: 210px;
     margin-top: 200px;*/
     /*border: solid 2px white;*/
-    align-content: center;
+    /*align-content: center;*/
     padding-bottom: 1px;
+    margin-left: 280px;
+    margin-top: 100px;
 }
 
-#hero-splash img {
+
+/*#hero-splash img {
     text-align: center;
     width: 30px;
     height: 30px;
     margin-top: 45px;
     margin-right: 10px;
     margin-left: 165px;
-    padding-right: 2px;
-    
-}
+    padding-right: 2px;*/
 
 #hero-splash p {
     color: white;
     font-style: italic;
     font-family: serif;
     font-size: 18px;
-    /*border: solid 2px white;*/
+    /*border: solid 5px red;*/
     text-align: center;
-    padding-top: 2px;
-    border: solid 2px blue;
+    margin-top: 200px;
+    height: 30px;
 }
 
 #hero-splash a {
     font-size: 23px;
-    /*border: solid 2px white;*/
+    border: solid 2px white;
+    margin-left: 530px;
     color: white;
-    margin-left: 400px;
+}
+
+.container clear-fix p {
+    font-size: 25px;
+    color: red;
 }
 
 
