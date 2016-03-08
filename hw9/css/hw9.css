@@ -94,7 +94,7 @@ body {
 }
 
 @media (max-width: 767px) {
-    #bottom {
+    #food {
         background-image: url(../img/sub_header_home.jpg);
     }
     .first {
