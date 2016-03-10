@@ -4,6 +4,10 @@
     clear: both;
 }
 
+#bottom {
+   width: 100%; 
+}
+
 body {
     width: 100%;
 }
@@ -98,49 +102,48 @@ body {
         background-image: url(../img/sub_header_home.jpg);
     }
     .first {
-        float: none;
-        width: auto;
-        padding: 10px 20px;
+        /*float: none;*/
+        width: 50%;
+        /*padding: 10px 20px;*/
     }
     .second {
-        float: none;
-        width: auto;
-        padding: 10px 20px;
+        /*float: none;*/
+        width: 50%;
+        /*padding: 10px 20px;*/
     }
     .third {
-        float: none;
-        width: auto;
-        padding: 10px 20px;
+        /*float: none;*/
+        width: 50%;
+        /*padding: 10px 20px;*/
     }
     .fourth {
-        float: none;
-        width: auto;
-        padding: 10px 20px;
+        /*float: none;*/
+        width: 50%;
+        /*padding: 10px 20px;*/
     }
 }
 
 @media (max-width: 767px) {
     .first {
-        float: left;
+        /*float: left;*/
         width: 100%;
-        padding: 10px 20px;
+        
     }
     .second {
-        float: left;
+        /*float: left;*/
         width: 100%;
-        padding: 10px 20px;
+        
     }
     .third {
-        float: left;
+        /*float: left;*/
         width: 100%;
-        padding: 10px 20px;
+        
     }
     .fourth {
-        float: left;
+        /*float: left;*/
         width: 100%;
-        padding: 10px 20px;
+        
     }
 }
 
 
-}
