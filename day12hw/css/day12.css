@@ -1,0 +1,142 @@
+#one {
+    width: 100%;
+    height: 250px;
+    background-color: aqua;
+}
+
+#one h1 {
+    text-align: center;
+    padding-top:  125px;
+    color: white;
+    font-size: 40px;
+    
+}
+
+#two {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    background:cover;
+    
+}
+
+#two h1 {
+    text-align: center;
+    padding-top:  125px;
+    color: white;
+    font-size: 40px;
+}
+
+#three {
+    width: 100%;
+    background-color: deepskyblue;
+    height: 300px;
+}
+
+
+/*END SECTIONS begin styling*/
+
+.d-one {
+    float: left;
+}
+
+.d-one h1 {
+    color: white;
+    text-align: center;
+}
+
+.d-one p {
+    color: white;
+    text-align: center;
+}
+
+
+/*END DIV 1 styling*/
+
+.d-two {
+    float: left;
+}
+
+.d-two h1 {
+    color: white;
+    text-align: center;
+}
+
+.d-two p {
+    color: white;
+    text-align: center;
+}
+
+
+/*END DIV 2 styling */
+
+.d-three {
+    float: left;
+}
+
+.d-three h1 {
+    color: white;
+    text-align: center;
+}
+
+.d-three p {
+    color: white;
+    text-align: center;
+}
+
+.d-four h1 {
+    color: white;
+    text-align: center;
+}
+
+.d-four p {
+    color: white;
+    text-align: center;
+}
+
+
+/*END DIV 3 styling*/
+
+s .d-four {
+    float: left;
+}
+
+.d-four h1 {
+    color: white;
+    text-align: center;
+}
+
+.d-four p {
+    color: white;
+    text-align: center;
+}
+
+
+/*END DIV 4 styling*/
+
+
+/*BEGIN DIV COLORS*/
+
+.black {
+    height: 20px;
+    width: 120px;
+    background-color: black;
+}
+
+.orange {
+    height: 20px;
+    width: 120px;
+    background-color: orange;
+}
+
+.green {
+    height: 20px;
+    width: 120px;
+    background-color: forestgreen;
+}
+
+.white {
+    height: 20px;
+    width: 120px;
+    background-color: white;
+}
