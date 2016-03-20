@@ -33,6 +33,8 @@
     width: 100%;
     background-color: deepskyblue;
     height: 300px;
+    padding-left: 90px;
+    padding-top: 50px;
 }
 
 
@@ -41,6 +43,7 @@
 .d-one {
     float: left;
     text-align: center;
+    border: solid 4px yellow;
 }
 
 .d-one h1 {
@@ -58,7 +61,8 @@
 
 .d-two {
     float: left;
-    border: solid 4px yellow;
+    border: solid 4px red;
+    margin-left: 90px;
 }
 
 .d-two h1 {
@@ -77,6 +81,8 @@
 .d-three {
     float: left;
     border: solid 4px yellow;
+    margin-left: 90px;
+    
 }
 
 .d-three h1 {
@@ -102,9 +108,11 @@
 
 /*END DIV 3 styling*/
 
-s .d-four {
+ .d-four {
     float: left;
-    border: solid 4px yellow;
+    border: solid 4px white;
+     margin-left: 90px;
+    
 }
 
 .d-four h1 {
@@ -124,25 +132,31 @@ s .d-four {
 /*BEGIN DIV COLORS*/
 
 .black {
-    height: 20px;
+    height: 30px;
     width: 120px;
     background-color: black;
+    margin-left: 33px;
 }
 
 .orange {
-    height: 20px;
+    height: 30px;
     width: 120px;
     background-color: orange;
+    margin-left: 33px;
 }
+
 
 .green {
-    height: 20px;
+    height: 30px;
     width: 120px;
-    background-color: forestgreen;
+    background-color: green;
+    margin-left: 33px;
 }
 
+
 .white {
-    height: 20px;
-    width: px;
+    height: 30px;
+    width: 120px;
     background-color: white;
+    margin-left: 33px;
 }
