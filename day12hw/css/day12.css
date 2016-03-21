@@ -159,3 +159,12 @@
     background-color: white;
     margin-left: 33px;
 }
+
+
+@media (max-width: 767px) {
+        #three > div {
+            float: none;
+            width: auto;
+        }
+    
+}
