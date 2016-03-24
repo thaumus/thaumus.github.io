@@ -167,7 +167,7 @@
 }
 
 @media (max-width: 767px) {
-   #three > div {
+   #three div {
         float: none;
         width: 50%;
     }
