@@ -1,0 +1,22 @@
+#splash {
+    width: 60%;
+    background-color: aqua;
+}
+
+#splash img {
+    height: 80%;
+    width: 80%;
+}
+
+#splash h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+#splash p {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
