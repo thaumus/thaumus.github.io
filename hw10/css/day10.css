@@ -1,3 +1,13 @@
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+body {
+    background-color: red;
+}
+
 #splash {
     width: 60%;
     background-color: aqua;
@@ -20,3 +30,23 @@
     color: black;
 }
 
+#splash a {
+    border: solid 5px grey;
+    background-color: grey;
+    color: white;
+    font-size: 15px;
+    font-family: monospace;
+    text-decoration: none;
+}
+
+#a {
+    float: right;
+    background-color: yellow;
+    width: 30%;
+    padding-left: 25px;
+}
+
+.aside {
+    padding-top: 5px;
+    margin-top: 10px;
+}
