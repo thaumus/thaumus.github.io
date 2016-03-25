@@ -5,17 +5,21 @@
 }
 
 body {
-    background-color: red;
+    background-color: white;
+    height: 100%;
+    border: solid 5px red;
 }
 
 #splash {
-    width: 60%;
+    width: 50%;
     background-color: aqua;
+    border: solid 3px green;
 }
 
 #splash img {
     height: 80%;
     width: 80%;
+    padding-right: 10px;
 }
 
 #splash h1 {
@@ -42,11 +46,11 @@ body {
 #a {
     float: right;
     background-color: yellow;
-    width: 30%;
+    width: 500px;
     padding-left: 25px;
+    padding-right: 25px;
 }
 
 .aside {
-    padding-top: 5px;
-    margin-top: 10px;
+    background-color: yellow;
 }
