@@ -47,10 +47,10 @@ body {
     float: right;
     background-color: yellow;
     width: 500px;
-    padding-left: 25px;
-    padding-right: 25px;
+   
 }
 
 .aside {
     background-color: yellow;
+    border: solid 4px blue;
 }
