@@ -1,19 +1,19 @@
-.clear-fix:after {
+/*.clear-fix:after {
     content: '';
     display: block;
     clear: both;
-}
+}*/
 
 body {
-    background-color: white;
-    height: 100%;
+    background-color: orange;
+    /*height: 100%;*/
     border: solid 5px red;
 }
 
 #splash {
-    width: 50%;
+    width: 800px;
     background-color: aqua;
-    border: solid 3px green;
+    border: solid 8px green;
 }
 
 #splash img {
