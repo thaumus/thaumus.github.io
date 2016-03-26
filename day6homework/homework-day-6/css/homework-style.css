@@ -1,5 +1,21 @@
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+}
+
+body {
+    background-color: yellow;
+    border: solid 3px black;
+    
+    
+}
+
 .header {
-    height: 200px;
+    
+    border: solid 3px black;
+    background-color: beige;
+    padding-bottom: 5px;
 }
 
 .header h3 {
@@ -21,206 +37,12 @@
 }
 
 .box-one {
-    margin-left: 90px;
-    
-}
-
-.box-one h2 {
-    font-family: sans-serif;
-    color: darkgray;
-    font-size: 14px;
-    
-}
-
-.box-one p {
-    font-family: sans-serif;
-    color: darkgray;
-    font-size: 10px;
-    
-}
-
-.box-one a {
-    font-size: 12px;
-    color: green;
-    margin-left: 380px;
-    
-}
-
-
-/*  
-
-.master {
+    border: solid 3px black;
     width: 40%;
-    float: left;
 }
 
-h3 {
-    font-family: Arial;
-    margin: auto;
-    color: lightslategray;
-    font-size: 20px;
-    font-weight: normal;
-}
-
-.first {
-    font-family: sans-serif;
-    font-size: 12px;
-    color: lightslategray;
-    margin-left: 465px;
-}
-
-.article-one {
-    background-color: lightgrey;
-    margin-left: 10px;
-    margin-top: 20px;
-    width: 40%;
-    float: left;
-}
-
-.clearfix:after {
-    clear: both;
-    content: ".";
-    display: block;
-    height: 0;
-    line-height: 0;
-    visibility: hidden;
-}
-
-.keyboard {
-    width: 365px;
-    height: 185px;
-    margin-top: 55px;
-}
-
-.h2 {
-    font-family: Arial;
-    color: grey;
-    font-size: 15px;
-    font-weight: normal;
-}
-
-.second {
-    font-family: sans-serif;
-    font-size: 12px;
-    color: lightslategray;
-}
-
-.a-one {
-    text-decoration: underline;
-    color: forestgreen;
-    padding: 10px;
-    font-size: 12px;
-    margin-bottom: 25px;
-    margin-left: 289px;
-}
-
-
-/* END FIRST SECTION. Next section is the article that will be floated right with the three images in it */
-
-
-/*.article-two {
-    clear: right;
-}
-
-.laptop-pic {
-    width: 165px;
-    height: 85px;
-    margin-top: 60px;
-    float: left;
-}
-
-.TEXT {
-    float: left;
-}
-
-.A2H2 {
-    font-family: Arial;
-    color: grey;
-    font-size: 15px;
-    font-weight: normal;
-    margin-right: 125px;
-    margin-bottom: 5px;
-    padding-bottom: 15px;
-    border-bottom: 15px;
-    margin-top: 59px;
-}
-
-.A2P {
-    font-family: sans-serif;
-    font-size: 12px;
-    color: lightslategray;
-}
-
-.desk-pic {
-    width: 165px;
-    height: 85px;
-    float: left;
-}
-
-.A22H2 {
-    font-family: Arial;
-    color: grey;
-    font-size: 15px;
-    font-weight: normal;
+.two {
     float: right;
-    margin-right: 125px;
-    margin-bottom: 5px;
-    padding-bottom: 15px;
-    border-bottom: 15px;
+    padding-bottom: 400px;
+    
 }
-
-.A2P2 {
-    font-family: sans-serif;
-    font-size: 12px;
-    color: lightslategray;
-}
-
-.window-pic {
-    width: 165px;
-    height: 85px;
-}
-
-.A23H2 {
-    font-family: Arial;
-    color: grey;
-    font-size: 15px;
-    font-weight: normal;
-    float: right;
-    margin-right: 125px;
-    margin-bottom: 5px;
-    padding-bottom: 15px;
-    border-bottom: 15px;
-}
-
-.A2P3 {
-    font-family: sans-serif;
-    font-size: 12px;
-    color: lightslategray;
-}
-
-
-/* END 2nd SECTION. The former section is an article, floated right, containing the three images of the window, desk and laptop with the text. */
-
-
-/*.alignment-wrapper {}
-
-.check-one {
-    color: forestgreen;
-}
-
-.check-two {
-    color: forestgreen;
-}
-
-.check-three {
-    color: forestgreen;
-}
-
-.profession {
-    background: yellow;
-    margin-top: 50px;
-}
-*/
-
-
-/*end check-mark section*/
