@@ -1,12 +1,9 @@
-.clearfix:after {
-    clear: both;
-    content: ".";
-    display: block;
-}
+
 
 body {
     background-color: yellow;
     border: solid 3px black;
+    height: 800px;
     
     
 }
@@ -16,6 +13,7 @@ body {
     border: solid 3px black;
     background-color: beige;
     padding-bottom: 5px;
+    width: 100%;
 }
 
 .header h3 {
@@ -37,12 +35,32 @@ body {
 }
 
 .box-one {
-    border: solid 3px black;
-    width: 40%;
-}
-
-.two {
-    float: right;
-    padding-bottom: 400px;
+    width: 50%;
+    border: solid 2px red;
+   
     
 }
+.two {
+    border: solid 3px black;
+    margin-bottom: 700px;
+    float: right;
+  
+    
+}
+
+.two img {
+    width: 150px;
+    height: 70px;
+    
+}
+
+.small-one {
+    border: solid 2px red;
+    
+}
+
+#crap {
+    border: solid 3px blue;
+    
+}
+
