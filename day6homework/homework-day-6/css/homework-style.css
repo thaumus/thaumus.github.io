@@ -1,58 +1,89 @@
- * {
-     
-     
- }
+.header {
+    height: 200px;
+}
 
+.header h3 {
+    text-align: center;
+    padding-top: 75px;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: darkgray;
+}
 
-header {
-   background-color:aqua;  
-     padding-bottom: 200px;
-     
- }
+.header p {
+    text-align: center;
+    font-family: sans-serif;
+    color: darkgray;
+}
 
-.master {
-   width: 40%; 
-    float: left;
+.header a {
+    font-size: 12px;
+}
+
+.box-one {
+    margin-left: 90px;
+    
+}
+
+.box-one h2 {
+    font-family: sans-serif;
+    color: darkgray;
+    font-size: 14px;
+    
+}
+
+.box-one p {
+    font-family: sans-serif;
+    color: darkgray;
+    font-size: 10px;
+    
+}
+
+.box-one a {
+    font-size: 12px;
+    color: green;
+    margin-left: 380px;
+    
 }
 
 
+/*  
 
-
+.master {
+    width: 40%;
+    float: left;
+}
 
 h3 {
-  font-family: Arial;
-  margin: auto; 
-     color: lightslategray;
-     font-size: 20px;
-     font-weight: normal;
-     }
+    font-family: Arial;
+    margin: auto;
+    color: lightslategray;
+    font-size: 20px;
+    font-weight: normal;
+}
 
-.first{
-   font-family: sans-serif;
-   font-size: 12px;
-   color:lightslategray;
-   margin-left: 465px;
-    }
+.first {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: lightslategray;
+    margin-left: 465px;
+}
 
-.article-one {                           
-  
+.article-one {
     background-color: lightgrey;
     margin-left: 10px;
     margin-top: 20px;
     width: 40%;
     float: left;
-
-    
 }
 
 .clearfix:after {
-         clear: both;     
-        content: ".";     
-    display: block;     
-    height: 0;     
-    line-height: 0;     
-    visibility: hidden; 
-    
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
 }
 
 .keyboard {
@@ -66,30 +97,30 @@ h3 {
     color: grey;
     font-size: 15px;
     font-weight: normal;
-   }
+}
 
 .second {
     font-family: sans-serif;
     font-size: 12px;
-    color:lightslategray;
-    }
+    color: lightslategray;
+}
 
 .a-one {
     text-decoration: underline;
-    color:forestgreen;
+    color: forestgreen;
     padding: 10px;
     font-size: 12px;
     margin-bottom: 25px;
     margin-left: 289px;
 }
 
+
 /* END FIRST SECTION. Next section is the article that will be floated right with the three images in it */
 
 
-.article-two {
-clear: right;
+/*.article-two {
+    clear: right;
 }
-
 
 .laptop-pic {
     width: 165px;
@@ -98,14 +129,9 @@ clear: right;
     float: left;
 }
 
-
 .TEXT {
     float: left;
-    
-    
-    
 }
-
 
 .A2H2 {
     font-family: Arial;
@@ -117,22 +143,18 @@ clear: right;
     padding-bottom: 15px;
     border-bottom: 15px;
     margin-top: 59px;
-    }
-
+}
 
 .A2P {
     font-family: sans-serif;
     font-size: 12px;
-    color:lightslategray;
-    
-    }
-
+    color: lightslategray;
+}
 
 .desk-pic {
-     width: 165px;
-     height: 85px;
+    width: 165px;
+    height: 85px;
     float: left;
-    
 }
 
 .A22H2 {
@@ -145,20 +167,17 @@ clear: right;
     margin-bottom: 5px;
     padding-bottom: 15px;
     border-bottom: 15px;
-    
-    
 }
 
 .A2P2 {
     font-family: sans-serif;
     font-size: 12px;
-    color:lightslategray;
-    
+    color: lightslategray;
 }
 
 .window-pic {
-     width: 165px;
-     height: 85px;
+    width: 165px;
+    height: 85px;
 }
 
 .A23H2 {
@@ -171,21 +190,19 @@ clear: right;
     margin-bottom: 5px;
     padding-bottom: 15px;
     border-bottom: 15px;
-    
 }
 
 .A2P3 {
     font-family: sans-serif;
     font-size: 12px;
-    color:lightslategray;
-    
+    color: lightslategray;
 }
+
 
 /* END 2nd SECTION. The former section is an article, floated right, containing the three images of the window, desk and laptop with the text. */
 
-.alignment-wrapper {
-   
-}
+
+/*.alignment-wrapper {}
 
 .check-one {
     color: forestgreen;
@@ -199,27 +216,11 @@ clear: right;
     color: forestgreen;
 }
 
-.profession{
-  background: yellow;
-  margin-top: 50px;
- 
-    
+.profession {
+    background: yellow;
+    margin-top: 50px;
 }
+*/
+
+
 /*end check-mark section*/
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
