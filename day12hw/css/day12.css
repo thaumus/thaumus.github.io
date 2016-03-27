@@ -1,8 +1,8 @@
-.clear-fix:after {
+/*.clear-fix:after {
     content: '';
     display: block;
     clear: both;
-}
+}*/
 
 #one {
     width: 100%;
@@ -24,7 +24,7 @@
     background-color: black;
     background: cover;
     margin-top: 9px;
-    border: solid 5px red;
+    /*border: solid 5px red;*/
 }
 
 #two h1 {
@@ -35,20 +35,19 @@
 }
 
 #three {
-    width: 100%;
+    /*width: 100%;*/
     background-color: deepskyblue;
-    height: 300px;
-    padding-left: 90px;
-    padding-top: 50px;
+    /*height: 300px;*/
+   
 }
 
 
 /*END SECTIONS begin styling*/
 
 .d-one {
-    float: left;
+    
     text-align: center;
-    border: solid 4px yellow;
+    /*border: solid 4px yellow;*/
 }
 
 .d-one h1 {
@@ -66,8 +65,8 @@
 /*END DIV 1 styling*/
 
 .d-two {
-    float: left;
-    border: solid 4px red;
+    /*float: left;*/
+    /*border: solid 4px red;*/
     margin-left: 90px;
 }
 
@@ -86,9 +85,9 @@
 /*END DIV 2 styling */
 
 .d-three {
-    float: left;
-    border: solid 4px yellow;
-    margin-left: 90px;
+    /*float: left;*/
+    /*border: solid 4px yellow;*/
+    /*margin-left: 90px;*/
 }
 
 .d-three h1 {
@@ -117,9 +116,9 @@
 /*END DIV 3 styling*/
 
 .d-four {
-    float: left;
+    /*float: left;
     border: solid 4px white;
-    margin-left: 90px;
+    margin-left: 90px;*/
 }
 
 .d-four h1 {
@@ -166,7 +165,7 @@
     margin-left: 23px;
 }
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
    #three div {
         float: none;
         width: 50%;
@@ -187,4 +186,4 @@
         float: none;
         width: 50%;
     }
-}
+}*/
