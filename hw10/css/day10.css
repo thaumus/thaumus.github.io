@@ -33,7 +33,21 @@
 }
 
 .right p {
-      color: white;
+    color: white;
+    font-family: monospace;
+    font-size: 14px;
+    
+}
+
+.h {
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    
+}
+
+.p {
+     color: white;
     font-family: monospace;
     font-size: 14px;
     
