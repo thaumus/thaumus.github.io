@@ -20,6 +20,24 @@
     color: white;
     
 }
+.right {
+    background-color: grey;
+    
+}
+
+.right h1 {
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    
+}
+
+.right p {
+      color: white;
+    font-family: monospace;
+    font-size: 14px;
+    
+}
 
 /*
 }
