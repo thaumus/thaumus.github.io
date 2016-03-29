@@ -37,12 +37,13 @@ body {
 .box-one {
     width: 50%;
     border: solid 2px red;
+    float: left;
    
     
 }
 .two {
-    border: solid 3px black;
-    margin-bottom: 700px;
+   
+    
     float: right;
   
     
