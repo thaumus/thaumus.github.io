@@ -2,33 +2,27 @@
     background-image: url("../img/wine14.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    
 }
 
 .row h3 {
-    
+
 }
 
 .f {
     width: 60%;
     height: 60%;
     margin-bottom: 100px;
-    
 }
 
 .top {
     font-family: sans-serif;
     font-size: 18px;
     color: white;
-    
 }
-
-
 
 .sig {
     width: 25%;
     height: 25%;
-    
 }
 
 .row h3 {
@@ -40,7 +34,7 @@
 }
 
 .row h1 {
- font-style: italic;
+    font-style: italic;
     font-family: serif;
     font-size: 30px;
     
@@ -51,20 +45,29 @@
     font-size: 14px;
     color: grey;
     margin-top: 30px;
-    
 }
 
 .row img {
     margin-top: 40px;
-    
 }
 
-#hero-three {
+/*#hero-three {
     background-image: url(../img/wine13.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    
+}*/
+
+.h-brag {
+     font-style: italic;
+    font-family: serif;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 600px;
+    border: solid 3px red;
 }
-
-
-
+    
+.p-brag {
+    font-family: monospace;
+    font-size: 14px;
+    color: white;
+}
