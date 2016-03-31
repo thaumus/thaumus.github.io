@@ -1,0 +1,50 @@
+body {
+    background: #c1c1c1;
+    
+}
+
+.yellow-bg {
+    background: yellow;
+    
+}
+
+div img {    margin-top: 10px;
+    
+}
+
+.coco {
+    /*width: 255px;*/
+    height: 255px;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.two {
+    background-color: red;
+    height: 570px;
+    width: 577px;
+}
+
+.row h2 {
+   margin-top: 150px;
+    font-family: monospace;
+    
+}
+
+.row p {
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 120px;
+    
+}
+
+
+
+
+
+
+
