@@ -1,0 +1,72 @@
+body {
+    background-image: url(../img/Ep-8-thumb-1536x864-278076908271.jpg);
+    background-repeat: no-repeat;
+    
+    
+}
+
+nav a {
+    color: yellow;
+    padding-left: 10px;
+    font-family: monospace;
+    
+}
+
+#main-splash h3 {
+    font-family: monospace;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    
+}
+
+#main-splash p {
+    font-size: 14px;
+    color: yellow;
+    text-align: center;
+    
+}
+
+#two {
+    padding-top: 300px;
+    align-content: center;
+    margin-left: 300px;
+    
+}
+
+.rey {
+   height: 200px;
+    width: 200px;
+    padding-left: 20px;
+    
+    }
+
+.luke {
+    height: 200px;
+    width: 200px;
+    padding-left: 20px;
+    
+    
+}
+
+.kylo {
+    height: 200px;
+    width: 200px;
+    padding-left: 20px;
+    
+}
+
+.snoke {
+    height: 200px;
+    width: 200px;
+    padding-left: 20px;
+    
+}
+
+#two h4 {
+    color: white;
+    margin-left: 310px;
+    font-family: monospace;
+    font-size: 25px;
+    
+}
