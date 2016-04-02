@@ -1,0 +1,115 @@
+body {
+    background-image: url(../img/jago%20wallpaper.png);
+    background-repeat: no-repeat;
+}
+
+.nav {
+    margin-left: 380px;
+    margin-top: 50px;
+}
+
+.nav a {
+    font-family: monospace;
+    font-size: 15px;
+    color: lightblue;
+    padding-left: 10px;
+}
+
+.one {
+    float: left;
+    width: 300px;
+    height: 300px;
+    border: solid 3px white;
+}
+
+.one img {
+    width: 50%;
+    height: 50%;
+}
+
+.one p {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.two p {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.two {
+    float: left;
+    width: 300px;
+    height: 300px;
+    border: solid 3px white;
+}
+
+.two img {
+    width: 50%;
+    height: 50%;
+}
+
+.three {
+    float: left;
+    width: 300px;
+    height: 300px;
+    border: solid 3px white;
+}
+
+.three p {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.three img {
+    width: 50%;
+    height: 50%;
+}
+
+.four {
+    float: left;
+    float: left;
+    width: 300px;
+    height: 300px;
+    border: solid 3px white;
+}
+
+.four p {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.four img {
+    width: 50%;
+    height: 50%;
+}
+
+#two {
+    padding-left: 100px;
+    margin-top: 300px;
+}
+
+#main-splash h1 {
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-family: fantasy
+}
+
+#main-splash p {
+    color: lightgoldenrodyellow;
+    font-family: monospace;
+    font-size: 12px;
+    text-align: center;
+}
+
+.torch {
+    margin-left: 1200px;
+}
+
+.t-one {
+    margin-left: 20px;
+}
