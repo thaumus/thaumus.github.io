@@ -38,7 +38,6 @@ div img {
 
 .yellow-bottom {
     border: solid 2px black;
-    
 }
 
 .yellow-bottom h1 {
@@ -68,18 +67,30 @@ div img {
     font-family: monospace;
     font-size: 15px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 70px;
     margin-bottom: 120px;
 }
 
 .coco-two h4 {
     text-align: center;
     font-family: sans-serif;
+    padding-top: 10px;
 }
 
 .coco-two p {
     text-align: center;
     font-family: sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
+.coco-two {}
+
+.contact {
+    background-color: red;
+}
+
+.contact h3 {
+    text-align: center;
+    font-size: 15px;
+    font-family: monospace;
+}
