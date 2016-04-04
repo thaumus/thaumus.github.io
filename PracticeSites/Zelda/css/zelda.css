@@ -1,0 +1,71 @@
+body {
+    background-image: url(../img/39265_zelda_zelda_hyrule_histora.jpg);
+    background-repeat: no-repeat;
+}
+
+nav a {
+    margin-left: 300px;
+    padding-left: 10px;
+    padding-right: 40px;
+    font-family:monospace;
+    color: lightgreen;
+    text-decoration: none;
+    font-size: 18px;
+    
+    }
+
+.ganon {
+    width: 30%;
+    height: 30%;
+    float: left;
+    
+}
+
+.link {
+    width: 20%;
+    height: 20%;
+    float: right;
+    
+}
+
+#two {
+   margin-left: 300px;
+    padding-right: 15px;
+    margin-top: 300px;
+    
+}
+
+#main-splash h3 {
+    font-family:cursive;
+    font-size: 20px;
+    color: lightgoldenrodyellow;
+   text-align: center;
+    margin-right: 40px;
+    
+}
+
+#main-splash p {
+    font-family:monospace;
+    font-size: 10px;
+    color: lightgoldenrodyellow;
+   text-align: center;
+   
+}
+
+#two img {
+    width: 15%;
+    height: 15%;
+    margin-left: 380px;
+    
+}
+
+#two h4 {
+    text-align: center;
+    font-family: monospace;
+    color: lightgreen;
+    margin-right: 180px;
+    
+}
+
+
+
