@@ -22,3 +22,23 @@
     border: solid 1px white;
     margin-bottom: 20px;
 }
+
+#bio {
+    background-color: darkgray;
+    
+}
+
+#bio h2 {
+    font-family:serif;
+    color: white;
+    text-decoration: underline;
+    font-size: 25px;
+    margin-top: 40px;
+    }
+
+#bio p {
+    font-family: monospace;
+    color: black;
+    margin-top: 40px;
+    
+}
