@@ -1,0 +1,24 @@
+#hero-splash {
+    margin-top: 50px;
+    background-image: url(../img/ominous-mountain.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#hero-splash h1 {
+    padding-top: 300px;
+    font-family: monospace;
+    padding-left: 0px;
+}
+
+#hero-splash p {
+    padding-bottom: 200px;
+    font-size: 15px;
+}
+
+#hero-splash a {
+    text-align: center;
+    border: solid 1px white;
+    margin-bottom: 20px;
+}
