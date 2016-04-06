@@ -72,3 +72,34 @@
 .prime img {
     border: solid 3px black;
 }
+
+#social {
+    background-image:url(../img/audiocentric_banner_bg_21.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    
+}
+
+#social h3 {
+    font-family: monospace;
+    font-size: 18px;
+    color: beige;
+    
+}
+
+#social a {
+    font-family: monospace;
+    font-size: 15px;
+    color: beige;
+    border: solid 3px white;
+}
+
+.go {
+    text-align: center;
+    
+}
+
+
+   
