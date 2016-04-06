@@ -25,16 +25,15 @@
 
 #bio {
     background-color: darkgray;
-    
 }
 
 #bio h2 {
-    font-family:serif;
+    font-family: serif;
     color: white;
     text-decoration: underline;
     font-size: 25px;
     margin-top: 40px;
-    }
+}
 
 #bio p {
     font-family: monospace;
@@ -44,5 +43,32 @@
 
 #services {
     margin-top: 10px;
-    
+}
+
+.shop-links {
+    border: solid 3px black;
+    background-color: lightblue;
+}
+
+.cafe {
+    /*margin-left: 300px;*/
+}
+
+.cafe p {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-left: 25px;
+}
+
+.cafe img {
+    border: solid 3px black;
+}
+
+.prime p {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.prime img {
+    border: solid 3px black;
 }
