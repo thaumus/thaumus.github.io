@@ -74,19 +74,17 @@
 }
 
 #social {
-    background-image:url(../img/audiocentric_banner_bg_21.png);
+    background-image: url(../img/audiocentric_banner_bg_21.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 300px;
-    
 }
 
 #social h3 {
     font-family: monospace;
     font-size: 18px;
     color: beige;
-    
 }
 
 #social a {
@@ -98,10 +96,8 @@
 
 .go {
     text-align: center;
-    
 }
 
-
-
-
-   
+.contact h3 {
+    color: black;
+}
