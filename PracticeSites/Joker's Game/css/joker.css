@@ -1,8 +1,6 @@
 body {
     background-image: url(../img/the_joker_by_orionca-d5xlghr.png);
     background-repeat: no-repeat;
-    
-    
 }
 
 nav h1 {
@@ -10,31 +8,25 @@ nav h1 {
     font-family: gadget;
     color: yellow;
     font-size: 90px;
-    
-    
 }
 
 .slot-one {
     width: 20%;
     float: left;
     margin-left: 200px;
-    
 }
 
 .slot-two {
     width: 20%;
     float: left;
-    
 }
 
 .slot-three {
     width: 20%;
     float: left;
-    
 }
 
 .slot-four {
     width: 20%;
     float: left;
-    
 }
