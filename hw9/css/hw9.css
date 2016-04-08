@@ -1,149 +1,23 @@
-.clear-fix:after {
-    content: '';
-    display: block;
-    clear: both;
+.food-one {
+    background-color: aqua;
+    height: 300px;
+    
 }
 
-#bottom {
-   width: 100%; 
-}
-
-body {
-    width: 100%;
-}
-
-#food {
-    background-image: url(../img/sub_header_home.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding: 100px 0 100px 50px;
-}
-
-.food-text {
+.food-one h1 {
+    font-family: monospace;
     color: white;
-    text-align: center;
+    margin-top: 100px;
+    
 }
 
-.food-text h1 {
-    font-size: 38px;
-}
-
-.food-text p {
-    font-size: 12px;
-}
-
-.first {
-    width: 20%;
-    float: left;
-    margin-left: 100px;
-}
-
-.first h3 {
-    font-family: sans-serif;
-    font-size: 12px;
-}
-
-.first p {
-    font-family: sans-serif;
-    font-size: 8px;
-}
-
-.second {
-    width: 20%;
-    float: left;
-    margin-left: 60px;
-}
-
-.second h3 {
-    font-family: sans-serif;
-    font-size: 12px;
-}
-
-.second p {
-    font-family: sans-serif;
-    font-size: 8px;
-}
-
-.third {
-    width: 20%;
-    float: left;
-    margin-left: 60px;
-}
-
-.third h3 {
-    font-family: sans-serif;
-    font-size: 12px;
-}
-
-.third p {
-    font-family: sans-serif;
-    font-size: 8px;
-}
-
-.fourth {
-    width: 20%;
-    float: left;
-    margin-left: 60px;
-}
-
-.fourth h3 {
-    font-family: sans-serif;
-    font-size: 12px;
-}
-
-.fourth p {
-    font-family: sans-serif;
-    font-size: 8px;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-    #food {
-        background-image: url(../img/sub_header_home.jpg);
+.food-two {
+    background-color: black;
+    height: 300px;
     }
-    .first {
-        /*float: none;*/
-        width: 50%;
-        /*padding: 10px 20px;*/
-    }
-    .second {
-        /*float: none;*/
-        width: 50%;
-        /*padding: 10px 20px;*/
-    }
-    .third {
-        /*float: none;*/
-        width: 50%;
-        /*padding: 10px 20px;*/
-    }
-    .fourth {
-        /*float: none;*/
-        width: 50%;
-        /*padding: 10px 20px;*/
-    }
+
+.food-two h1 {
+    font-family: monospace;
+    color: white;
+    margin-top: 100px;
 }
-
-@media (max-width: 767px) {
-    .first {
-        /*float: left;*/
-        width: 100%;
-        
-    }
-    .second {
-        /*float: left;*/
-        width: 100%;
-        
-    }
-    .third {
-        /*float: left;*/
-        width: 100%;
-        
-    }
-    .fourth {
-        /*float: left;*/
-        width: 100%;
-        
-    }
-}
-
-
