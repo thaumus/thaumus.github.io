@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/WDF_2295105.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#first img {
+    height: 30%;
+    width: 30%;
+    margin-left: 470px;
+}
+
+nav h1 {
+    font-family: impact;
+    font-size: 50px;
+    text-align: center;
+    color: darkgray;
+    margin-bottom: 125px;
+}
+
+#first h2 {
+    font-family: monospace;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 12px;
+}
