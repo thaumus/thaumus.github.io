@@ -1,5 +1,5 @@
 .food-one {
-    background-color: aqua;
+    background-color: deepskyblue;
     height: 300px;
     
 }
@@ -20,4 +20,22 @@
     font-family: monospace;
     color: white;
     margin-top: 100px;
+    text-decoration: underline;
+}
+
+.four h1 {
+    text-align: center;
+    color: white;
+    
+}
+
+.four p {
+    text-align: center;
+    color: white;
+    
+}
+
+.food-three {
+    background-color: darkcyan;
+    
 }
