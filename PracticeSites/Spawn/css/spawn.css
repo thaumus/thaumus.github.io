@@ -18,7 +18,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 400px;
+    
     
 }
 
@@ -27,6 +28,11 @@
     color: bisque;
     margin-top: 200px;
     font-size: 28px;
+    
+}
+
+.splash-3 {
+    background-color: black;
     
 }
 
