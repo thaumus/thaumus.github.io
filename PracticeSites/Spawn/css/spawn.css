@@ -1,0 +1,34 @@
+.splash {
+    background-image:url(../img/spawn-21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    
+}
+
+.splash h2 {
+    font-family: techno;
+    color: bisque;
+    margin-top: 100px;
+}
+
+.splash-2 {
+    background-image:url(../img/spawnBanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    
+}
+
+.splash-2 h2 {
+    font-family: unica one;
+    color: bisque;
+    margin-top: 200px;
+    font-size: 28px;
+    
+}
+
+
+
