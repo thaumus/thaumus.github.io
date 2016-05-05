@@ -1,0 +1,63 @@
+body {
+    background-color: darkorange;
+}
+
+#hero {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/AW.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border: solid 3px black;
+    padding-top: 20px;
+}
+
+#hero h1 {
+    font-family: monospace;
+    font-size: 30px;
+    color: darkorange;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#hero p {
+    font-size: 18px;
+    font-family: monospace;
+    color: navajowhite;
+    text-align: center;
+    text-decoration: underline;
+    text-emphasis: bold;
+}
+
+#hero img {
+    margin-left: 595px;
+    border: solid 5px black;
+}
+
+.nav {
+    text-align: center;
+    font-family: monospace;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.food img {
+    width: 30%;
+    height: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-left: 270px;
+}
+
+.f2 img {
+    width: 29%;
+    height: 40%;
+    float: left;
+    margin-top: 30px;
+}
