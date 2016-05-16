@@ -1,0 +1,19 @@
+.splash {
+    background-image: url(../img/batman-ao-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    align-content: center;
+    
+    
+    
+}
+
+.splash-2{
+    background-image: url(../img/TB_3DS_BatmanArkhamOriginsBlackgate_C.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+}
